@@ -1,5 +1,7 @@
 # PoC repo to reproduce hydration issue with kustomize helmCharts and a chart using lookup to get secret data
 
+Opened issue at https://github.com/bitnami/charts/issues/36388.
+
 ## Steps to reproduce:
 
 1. Create a namespace
